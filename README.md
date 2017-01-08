@@ -1,2 +1,2 @@
-# MS-Bot-Framework
-Microsoft Bot Framework example.
+# MS-Bot-Framework-LUIS.ai
+Leave chat bot built in Microsoft Bot framework and uses Microsoft's LUIS.ai for Natural Language Processing.

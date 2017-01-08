@@ -1,0 +1,24 @@
+{
+  "name": "ai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pramod Mali",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.2.3",
+    "botbuilder-calling": "^3.0.0",
+    "directline-api": "^1.0.7",
+    "nforce": "^1.5.0",
+    "restify": "^4.1.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:malipramod/MS-Bot-Framework.git"
+  },
+  "homepage": "http://www.pramodmali.com",
+  "description": ""
+}
